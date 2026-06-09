@@ -16,9 +16,20 @@ Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante apr
 <img width="85" height="20" alt="image" src="https://github.com/user-attachments/assets/f804e0ec-d545-49b0-ab1b-ce9493aefae4" />
 <img width="87" height="20" alt="image" src="https://github.com/user-attachments/assets/42d67cdd-4028-4522-b34d-4d413bb04d70" />
 
-<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
-<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+### UI|UX
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/8866a0d5-9976-4658-a20e-d3d7c51a4fe0" />
+<img width="39" height="20" alt="image" src="https://github.com/user-attachments/assets/01c41dca-9bb7-4ba1-aba0-dba4c1da1843" />
+<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/9838df3e-6660-4a45-b19a-89ca0a422a05" />
+
+### Databases
+<img width="73" height="20" alt="image" src="https://github.com/user-attachments/assets/23637be9-ec5f-4070-932d-a00e265f6bd4" />
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/b3a7bead-2b88-48e8-b7e4-d537af0dd0a3" />
+<img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/7ad62657-92b5-46d2-8eaa-c1e9ab2557ce" />
+
+
+
+
+
 
 
 
