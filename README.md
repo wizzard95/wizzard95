@@ -26,6 +26,10 @@ Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante apr
 <img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/b3a7bead-2b88-48e8-b7e4-d537af0dd0a3" />
 <img width="81" height="20" alt="image" src="https://github.com/user-attachments/assets/7ad62657-92b5-46d2-8eaa-c1e9ab2557ce" />
 
+### Tools
+<img width="43" height="20" alt="image" src="https://github.com/user-attachments/assets/df31cebd-b162-4e0c-9665-b00d84dbe4db" />
+<img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/185dce8a-3d06-4375-8d51-ba7f9d6da686" />
+
 
 
 
