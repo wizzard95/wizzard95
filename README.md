@@ -8,4 +8,5 @@ Soy desarrollador Full Stack con experiencia y enfoque en el desarrollo de aplic
 Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante aprendizaje a través de proyectos propios y nuevas tecnologías. Cuento con experiencia en bases de datos SQL y NoSQL, Docker, Git y despliegue de aplicaciones, destacando por mi capacidad de adaptación, resolución de problemas y enfoque en la calidad del software.
 
 ## Stack Tecnológico
-https://camo.githubusercontent.com/be6981109a2c4485971434b6fbe9f6de68ed7cca8e9343834d161a50ea73634d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666c6174266c6f676f3d7265616374
+
+<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/1198f474-80af-4c12-9c2d-46bbb59841e9" />
