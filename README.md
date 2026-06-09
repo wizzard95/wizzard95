@@ -10,7 +10,8 @@ Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante apr
 ## Stack Tecnológico
 ### Backend
 <img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/e496a4a1-7a95-44ee-baca-2d98a58b2b5c" />
-<img width="69" height="20" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img width="69" height="20" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+          
           
           
 
