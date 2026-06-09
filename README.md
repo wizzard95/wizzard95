@@ -9,4 +9,5 @@ Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante apr
 
 ## Stack Tecnológico
 ### Backend
-<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/1198f474-80af-4c12-9c2d-46bbb59841e9" />
+<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/e496a4a1-7a95-44ee-baca-2d98a58b2b5c" />
+
