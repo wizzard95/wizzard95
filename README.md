@@ -16,6 +16,10 @@ Soy Ingeniero en Informática titulado por INACAP y me mantengo en constante apr
 <img width="85" height="20" alt="image" src="https://github.com/user-attachments/assets/f804e0ec-d545-49b0-ab1b-ce9493aefae4" />
 <img width="87" height="20" alt="image" src="https://github.com/user-attachments/assets/42d67cdd-4028-4522-b34d-4d413bb04d70" />
 
+<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/simpleicons?viewbox=auto" />
+<img height="20" src="https://cdn.simpleicons.org/awesomelists?viewbox=auto" />
+
 
 
 
